@@ -10,4 +10,4 @@ spec:
   - name: nginx
     image: nginx
   - name: redis
-    image: redis123
+    image: redis
